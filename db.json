@@ -1,0 +1,92 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "name": "Margherita",
+      "price": 9.99,
+      "quantity": 1,
+      "description": "Fresh mozzarella, basil, tomato sauce.",
+      "imageUrl": "https://img.cuisineaz.com/660x660/2013/12/20/i18445-margherite.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Pepperoni",
+      "price": 11.99,
+      "quantity": 1,
+      "description": "Tomato sauce, mozzarella, pepperoni.",
+      "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F19%2F2014%2F07%2F10%2Fpepperoni-pizza-ck-x.jpg&q=60"
+    },
+    {
+      "id": 3,
+      "name": "Hawaiian",
+      "price": 12.99,
+      "quantity": 1,
+      "description": "Tomato sauce, mozzarella, ham, pineapple.",
+      "imageUrl": "https://www.thespruceeats.com/thmb/9KzBgyBZ1LHG8DKLkZ8psYXbm8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/hawaiian-pizza-4691857-hero-01-1a8f6764c70e4113bbf31bd1a73aca2e.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Meat Lover's",
+      "price": 14.99,
+      "quantity": 1,
+      "description": "Tomato sauce, mozzarella, pepperoni, sausage, bacon.",
+      "imageUrl": "https://www.vincenzosplate.com/wp-content/uploads/2021/08/610x350-Photo-5_863-How-to-Make-MEATLOVERS-PIZZA-Like-an-Italian-V1.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Vegetarian",
+      "price": 11.99,
+      "quantity": 1,
+      "description": "Tomato sauce, mozzarella, mushrooms, onions, green peppers.",
+      "imageUrl": "https://theclevermeal.com/wp-content/uploads/2021/10/veggie-pizza-recipes_002.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Mushroom",
+      "price": 10.99,
+      "quantity": 1,
+      "description": "Tomato sauce, mozzarella, mushrooms, onions.",
+      "imageUrl": "https://www.blossomtostem.net/wp-content/uploads/2019/03/Roasted-Mushroom-Pizza-12.jpg"
+    },
+    {
+      "id": 7,
+      "name": "BBQ Chicken",
+      "price": 13.99,
+      "quantity": 1,
+      "description": "BBQ sauce, mozzarella, grilled chicken, red onions.",
+      "imageUrl": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/2caca97b-77f6-48e7-837d-62642c0c9861/Derivates/12591894-e010-4a02-b04e-2627d8374298.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Supreme",
+      "price": 15.99,
+      "quantity": 1,
+      "description": "Tomato sauce, mozzarella, pepperoni, sausage, mushrooms, green peppers, onions, black olives.",
+      "imageUrl": "https://www.wilton.com/dw/image/v2/AAWA_PRD/on/demandware.static/-/Sites-wilton-project-master/default/dw141e010b/images/project/WLRECIP-8636/supreme-pizza-recipe.jpg?sw=800&sh=800"
+    },
+    {
+      "id": 9,
+      "name": "Buffalo Chicken",
+      "price": 13.99,
+      "quantity": 1,
+      "description": "Buffalo sauce, mozzarella, grilled chicken, red onions.",
+      "imageUrl": "https://anaffairfromtheheart.com/wp-content/uploads/2015/08/Buffalo-Chicken-Pizza-12.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Pesto",
+      "price": 12.99,
+      "quantity": 1,
+      "description": "Pesto sauce, mozzarella, fresh tomatoes, spinach.",
+      "imageUrl": "https://tazzcdn.akamaized.net/uploads/cover/Presto_Pizza.jpg"
+    },
+    {
+      "id": 11,
+      "name": "White",
+      "price": 12.99,
+      "quantity": 1,
+      "description": "Olive oil, garlic, mozzarella, ricotta, Parmesan.",
+      "imageUrl": "https://www.thespruceeats.com/thmb/gisGv1U4IwJd_01i9P5RPCvEsyo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/creamy-white-sauce-for-pizza-recipe-3377661-hero-01-3db2b9efa8d841058e3b3e5a4281d8cf.jpg"
+    }
+  ]
+}
